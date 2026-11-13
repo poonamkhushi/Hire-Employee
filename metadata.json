@@ -1,0 +1,6 @@
+{
+  "name": "Cadence — Executive Career Companion",
+  "description": "Structured job application tracker, interview rehearsal studio, and side-by-side offer comparison workspace.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
